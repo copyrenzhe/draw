@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T03:46:15.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="16.2.7" etag="BADi_l4nP5XBM3SpX-Lw" type="github"><diagram id="RL0fj1btzYMAmtMdYvVy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2024-05-27T01:56:23.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lLlS3ukHEniVXwVdzPT-" version="24.4.8" type="github">
+  <diagram id="RL0fj1btzYMAmtMdYvVy" name="第 1 页">
+    <mxGraphModel dx="954" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KmfzVUlWvpAAOY38MMVg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="580" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KmfzVUlWvpAAOY38MMVg-3" value="App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KmfzVUlWvpAAOY38MMVg-4" value="Web" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293.5" y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KmfzVUlWvpAAOY38MMVg-5" value="活动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KmfzVUlWvpAAOY38MMVg-6" value="小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KmfzVUlWvpAAOY38MMVg-7" value="&amp;nbsp; &amp;nbsp;网关&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ApiGateway/Argus-Api-路由、授权、协议转抽象、流控、灰度&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KmfzVUlWvpAAOY38MMVg-8" value="&amp;nbsp; 业务聚合层" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="580" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="KmfzVUlWvpAAOY38MMVg-10" value="用户域" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
